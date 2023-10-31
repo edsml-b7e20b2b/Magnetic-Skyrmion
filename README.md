@@ -144,11 +144,11 @@ The spins class consists of 4 methods; mean, normalise, randomise and plot.
 ```
 Scale at 10 | Scale at 100
 --- | ---
-![](Scale%20at%2010.png) | ![](Scale%20at%20100.png)
+![](images/Scale%20at%2010.png) | ![](images/Scale%20at%20100.png)
 
 
 ## Spins Test Results
-![](Spin%20Tests.png)
+![](images/Spin%20Tests.png)
 All tests were successful
 
 ## Driver Class
@@ -245,7 +245,7 @@ The calculated DMI energy is then returned.
 ```
 ### System Test Results
 
-![](Systems%20test.png)
+![](images/Systems%20test.png)
 
 
 ## Acknowledgements
